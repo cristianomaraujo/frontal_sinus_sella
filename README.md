@@ -75,26 +75,6 @@ The computational workflow implemented in this project follows several stages:
 
 ---
 
-# Repository Structure
-
-```
-├── data
-│   Dataset used for model training and evaluation
-│
-├── notebooks
-│   Scripts and notebooks containing the machine learning pipeline
-│
-├── figures
-│   Visual outputs generated during the analysis
-│
-├── models
-│   Saved model objects and prediction outputs
-│
-└── README.md
-```
-
----
-
 # Software Environment
 
 The analyses were performed using **Python 3.10** within the scientific Python ecosystem.
